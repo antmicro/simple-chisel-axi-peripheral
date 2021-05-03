@@ -1,0 +1,11 @@
+{
+  "categories": [
+    "ASIC & FPGA"
+  ],
+  "tags": [
+    "chisel",
+    "axi",
+    "ip",
+    "fpga"
+  ]
+}
